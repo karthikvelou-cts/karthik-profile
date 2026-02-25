@@ -106,21 +106,21 @@ function App() {
             <img className="profile-photo" src="/profile-photo.png" alt="Karthik profile" />
           </div>
           <div className="hero-content">
-            <p className="kicker">Senior Software Engineer</p>
+            <p className="kicker">Senior Associate - Projects</p>
             <h1>Karthik V</h1>
             <p className="hero-summary">
               Senior Software Engineer with 6+ years of IT experience across full-stack development, team leadership, and client interaction. Focused on scalable web applications using React, Laravel, Node.js, and AWS.
             </p>
             <div className="hero-actions">
-              <a href="mailto:veloukarthik@gmail.com">veloukarthik@gmail.com</a>
+              <a href="mailto:karthik.v5@cognizant.com">karthik.v5@cognizant.com</a>
               <a href="tel:+919344751727">+91 93447 51727</a>
-              <a href="https://github.com/veloukarthik/" target="_blank" rel="noreferrer">
+              <a href="https://github.com/orgs/cts-karthikvelou" target="_blank" rel="noreferrer">
                 GitHub
               </a>
               <a href="https://www.linkedin.com/in/karthik-velou/" target="_blank" rel="noreferrer">
                 LinkedIn
               </a>
-              <a href="/2393630-Karthik Velou.pdf" target="_blank" rel="noreferrer">
+              <a href="/2393630.pdf" target="_blank" rel="noreferrer">
                 View Resume (PDF)
               </a>
             </div>
